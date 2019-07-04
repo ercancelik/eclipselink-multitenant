@@ -1,2 +1,2 @@
 # eclipselink-multitenant
-Table per Tenant Implementation Using EclipseLink
+Demo project for Spring Boot &amp; EclipseLink Multitenant
